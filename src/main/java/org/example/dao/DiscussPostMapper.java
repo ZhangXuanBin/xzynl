@@ -15,4 +15,12 @@ public interface DiscussPostMapper {
     // 获取分页数量
     int selectDiscussPostRows(@Param("userId") int userId);
 
+    // 添加帖子
+    int insertDiscussPost(DiscussPost discussPost);
+
+    DiscussPost selectDiscussPostById(@Param("id") int id);
+
+
+    int updateCommentCount(@Param("id") int id, @Param("commentCount") int commentCount);
+
 }

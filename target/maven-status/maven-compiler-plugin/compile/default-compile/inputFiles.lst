@@ -1,1 +1,13 @@
 D:\MyWork\NewCode\src\main\java\org\example\CommunityApplication.java
+D:\MyWork\NewCode\src\main\java\org\example\entity\Page.java
+D:\MyWork\NewCode\src\main\java\org\example\entity\DiscussPost.java
+D:\MyWork\NewCode\src\main\java\org\example\dao\DiscussPostMapper.java
+D:\MyWork\NewCode\src\main\java\org\example\service\UserService.java
+D:\MyWork\NewCode\src\main\java\org\example\service\DiscussPostService.java
+D:\MyWork\NewCode\src\main\java\org\example\controller\HomeController.java
+D:\MyWork\NewCode\src\main\java\org\example\util\CommunityConstant.java
+D:\MyWork\NewCode\src\main\java\org\example\dao\UserMapper.java
+D:\MyWork\NewCode\src\main\java\org\example\entity\User.java
+D:\MyWork\NewCode\src\main\java\org\example\util\MailClient.java
+D:\MyWork\NewCode\src\main\java\org\example\util\CommunityUtil.java
+D:\MyWork\NewCode\src\main\java\org\example\controller\LoginController.java

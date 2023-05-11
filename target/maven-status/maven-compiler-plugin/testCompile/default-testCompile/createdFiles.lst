@@ -1,1 +1,4 @@
 org\example\AppTest.class
+org\example\MapperTest.class
+org\example\LoggerTests.class
+org\example\MailTest.class

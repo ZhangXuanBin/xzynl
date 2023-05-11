@@ -1,1 +1,13 @@
+org\example\util\CommunityUtil.class
+org\example\service\DiscussPostService.class
+org\example\util\MailClient.class
+org\example\dao\DiscussPostMapper.class
+org\example\controller\LoginController.class
 org\example\CommunityApplication.class
+org\example\dao\UserMapper.class
+org\example\service\UserService.class
+org\example\util\CommunityConstant.class
+org\example\controller\HomeController.class
+org\example\entity\DiscussPost.class
+org\example\entity\User.class
+org\example\entity\Page.class
